@@ -45,7 +45,7 @@ jobs:
         rm -f exclusion_list.txt
         rm -rf exclusion
         mkdir exclusion     
-        wget -i urlexclusion -P exclusion/ --wait 7
+        wget -i urlexclusion -P exclusion/ --wait 7 --tries=3 --no-check-certificate --continue --timeout=30 || true
         cd exclusion
         for file in *; do
           # Remove comments, leading/trailing whitespace, and empty lines
