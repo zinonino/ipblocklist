@@ -19,7 +19,6 @@ https://raw.githubusercontent.com/borestad/firehol-mirror/main/php_spammers.ipse
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/vxvault.ipset
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/xroxy.ipset
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/iblocklist_ciarmy_malicious.netset
-https://raw.githubusercontent.com/borestad/blocklist-abuseipdb/main/abuseipdb-s100-14d.ipv4
 https://www.spamhaus.org/drop/drop.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
@@ -75,3 +74,4 @@ https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Mozi%20Botn
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/main/data/Mythic%20C2%20IPs.txt
 https://blackip.ustc.edu.cn/list.php?txt
 https://lists.blocklist.de/lists/all.txt
+
